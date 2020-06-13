@@ -1,4 +1,4 @@
-# Turkmençe häzirki-zaman Javascript kursy
+# Türkmençe Häzirki-zaman JavaScript Kursy
 
 This repository hosts the translation of <https://javascript.info> in Turkmen.
 
