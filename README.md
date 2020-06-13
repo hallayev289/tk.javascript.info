@@ -5,7 +5,7 @@ Bu çeşme <https://javascript.info> web sahypasynyň Türkmençe terjimesidir.
 
 **Şu görnüşde kömek edip bilersiňiz:**
 
-- [Türkmençe terjimäniň ösüşine] serediň (https://github.com/javascript-tutorial/tk.javascript.info/issues/1).
+- [Türkmençe terjimäniň ösüşine](https://github.com/javascript-tutorial/tk.javascript.info/issues/1) serediň.
 - Alynmadyk makalany terjime etmek üçin saýlaň.
 - Bu makalanyň adyny kommentariýa edip, mesele bölüminde goýuň, mysal üçin: `An Introduction to JavaScript`.
     - Our bot will mark it in the issue, for everyone to know that you're translating it.
