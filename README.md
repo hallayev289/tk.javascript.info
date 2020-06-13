@@ -1,6 +1,6 @@
 # Türkmençe Häzirki-zaman JavaScript Kursy
 
-This repository hosts the translation of <https://javascript.info> in Turkmen.
+Bu çeşme <https://javascript.info> web sahypasynyň Türkmençe terjimesidir.
 
 
 **That's how you can contribute:**
