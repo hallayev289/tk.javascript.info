@@ -3,9 +3,9 @@
 Bu çeşme <https://javascript.info> web sahypasynyň Türkmençe terjimesidir.
 
 
-**That's how you can contribute:**
+**Şu görnüşde kömek edip bilersiňiz:**
 
-- See the [Turkmen Translate Progress](https://github.com/javascript-tutorial/tk.javascript.info/issues/1) issue.
+- [Türkmençä terjimäniň ösüşi](https://github.com/javascript-tutorial/tk.javascript.info/issues/1).
 - Choose an unchecked article you'd like to translate.
 - Add a comment with the article title to the issue, e.g. `An Introduction to JavaScript`.
     - Our bot will mark it in the issue, for everyone to know that you're translating it.
