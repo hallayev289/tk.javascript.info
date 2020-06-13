@@ -6,7 +6,7 @@ Bu çeşme <https://javascript.info> web sahypasynyň Türkmençe terjimesidir.
 **Şu görnüşde kömek edip bilersiňiz:**
 
 - [Türkmençä terjimäniň ösüşi](https://github.com/javascript-tutorial/tk.javascript.info/issues/1).
-- Choose an unchecked article you'd like to translate.
+- Alynmadyk makalany terjime etmek üçin saýlaň.
 - Add a comment with the article title to the issue, e.g. `An Introduction to JavaScript`.
     - Our bot will mark it in the issue, for everyone to know that you're translating it.
     - Your comment should contain only the title.
