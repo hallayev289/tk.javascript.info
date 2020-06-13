@@ -5,9 +5,9 @@ Bu çeşme <https://javascript.info> web sahypasynyň Türkmençe terjimesidir.
 
 **Şu görnüşde kömek edip bilersiňiz:**
 
-- [Türkmençä terjimäniň ösüşi](https://github.com/javascript-tutorial/tk.javascript.info/issues/1).
+- [Türkmençe terjimäniň ösüşine] serediň (https://github.com/javascript-tutorial/tk.javascript.info/issues/1).
 - Alynmadyk makalany terjime etmek üçin saýlaň.
-- Bu makalanyň adyny kommentariýa edip, mesele bölüminde goýuň mysal üçin `An Introduction to JavaScript`.
+- Bu makalanyň adyny kommentariýa edip, mesele bölüminde goýuň, mysal üçin: `An Introduction to JavaScript`.
     - Our bot will mark it in the issue, for everyone to know that you're translating it.
     - Your comment should contain only the title.
 - Fork the repository, translate and send a PR when done.
